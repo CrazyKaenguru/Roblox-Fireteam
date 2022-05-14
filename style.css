@@ -11,10 +11,6 @@
   .header{
       font-size: 40px;
   }
-  .members
-  {
-    
-  }
   .row
   {
       display: flex;
@@ -70,6 +66,7 @@
     font-weight: 550;
     color: white;
   }
+  
   /* Hover effects */
   .navbar .nav-links a:hover{
     background-color: rgba(0, 0, 0, 0.3);
