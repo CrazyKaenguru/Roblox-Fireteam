@@ -1,6 +1,4 @@
 <div class="member">
                   <img  src="" class="profileimg">
                   <p>Rewards:</p>
-                  <p></p>
-                  <p></p>
               </div>  
