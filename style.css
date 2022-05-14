@@ -4,6 +4,34 @@
     padding: 0;
     box-sizing: border-box;
   }
+  .centered
+  {
+      text-align: center;
+  }
+  .header{
+      font-size: 40px;
+  }
+  .members
+  {
+    
+  }
+  .row
+  {
+      display: flex;
+  }
+  .profileimg{
+    
+    width: 100%;
+    object-fit: contain;
+    max-height:50% ;
+  }
+  .member{
+  padding: 20px;
+  /*border: 1px solid black;*/
+  height: 500px;
+  flex: 25%;
+  text-align: center;
+  }
   body{
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     background-size: cover;
